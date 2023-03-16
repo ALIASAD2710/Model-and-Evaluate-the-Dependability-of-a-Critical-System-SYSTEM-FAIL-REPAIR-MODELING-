@@ -1,0 +1,2 @@
+# Model-and-Evaluate-the-Dependability-of-a-Critical-System-SYSTEM-FAIL-REPAIR-MODELING-
+ The objective is to analyze, to model and evaluate the dependability of a critical system. To compute the reliability and availability metrics of the given system using the Transient Solver. I did modeling and evaluation exercises for analyzing the system operations, working, failures and repair by using Mobius.
